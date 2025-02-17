@@ -25,3 +25,5 @@ After 2013, the volume stabilized but remained higher than earlier years, indica
 4. Stock Performance by Year:
 Pre-2013: Lower trading volumes and relatively stable stock prices.
 Post-2013: Increase in trading volume and higher volatility, likely due to company growth, product announcements, and investor confidence.
+
+![Image](https://github.com/user-attachments/assets/70bde6c0-0277-43b7-924d-d93f603811f2)
