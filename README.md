@@ -27,3 +27,4 @@ Pre-2013: Lower trading volumes and relatively stable stock prices.
 Post-2013: Increase in trading volume and higher volatility, likely due to company growth, product announcements, and investor confidence.
 
 ![Image](https://github.com/user-attachments/assets/70bde6c0-0277-43b7-924d-d93f603811f2)
+![Image](https://github.com/user-attachments/assets/d2cfb24a-def9-4fec-a5c4-5f4be35c2ffe)
